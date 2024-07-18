@@ -1,4 +1,4 @@
-# bamoe-canvas-quarkus-accelerator
+# process events add-on example 
 
 Sample project demonstrating process add-on capabilities explained in this [blog post](https://karinavarela.me/2024/07/18/events-addon-current-state-and-insights/).
 
